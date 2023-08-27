@@ -1,0 +1,11 @@
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\bin\Debug\Console2_for_Squarefound.exe.config
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\bin\Debug\Console2_for_Squarefound.exe
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\bin\Debug\Console2_for_Squarefound.pdb
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\bin\Debug\ClassLibrary1Square_found.dll
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\bin\Debug\ClassLibrary1Square_found.pdb
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\obj\Debug\Console2_for_Squarefound.csproj.AssemblyReference.cache
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\obj\Debug\Console2_for_Squarefound.csproj.SuggestedBindingRedirects.cache
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\obj\Debug\Console2_for_Squarefound.csproj.CoreCompileInputs.cache
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\obj\Debug\Console2_for_Squarefound.csproj.CopyComplete
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\obj\Debug\Console2_for_Squarefound.exe
+D:\Поиск работы\Собеседование в MindBox(Белорусская)\Второй раз\Библиотека классов\ClassLibrary1Square_found\Console2_for_Squarefound\obj\Debug\Console2_for_Squarefound.pdb
